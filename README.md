@@ -14,6 +14,6 @@ JavaScript
 - Clean centered UI
 - Button animation
 
-## Demo
+## Live Demo:
 
-Press the button to generate a random phrase.
+https://dremrik.github.io/motivation-generator/
